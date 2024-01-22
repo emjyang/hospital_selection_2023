@@ -108,4 +108,9 @@ Emily Yang
 
 ### Credits
 [Emily Yang](https://github.com/emjyang)  
+[Melanie Webster](https://github.gatech.edu/mwebster33)  
+[Claire Tran](https://github.gatech.edu/ctran68)  
+[Justin Lee](https://github.gatech.edu/jlee3719)  
+[Liam Das](https://github.gatech.edu/ldas8) 
+
 
