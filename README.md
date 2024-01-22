@@ -1,9 +1,9 @@
-### cx4242-hospital-selection-team-35
+### Hospital Selection
 
 # Hospital Selection Project
 
 ### Description
-This is the repository for the final project for Fall 2023's CX4242 Team 35.
+This is the repository for my final project for Fall 2023.
 
 The goal of this project is to produce an easily understandable application for
 choosing hospitals based on user-weighted criteria. Due to the nature of 
@@ -104,11 +104,8 @@ pip install -r data_generation_requirements.txt
 [Customer Satisfaction](https://www.kaggle.com/datasets/abrambeyer/us-hospital-customer-satisfaction-20162020)  
 
 ### Contributors
-The members of this group are Emily Yang, Melanie Webster, Claire Tran, Justin Lee, and Liam Das.
+Emily Yang
 
 ### Credits
-[Emily Yang](https://github.gatech.edu/eyang82)  
-[Melanie Webster](https://github.gatech.edu/mwebster33)  
-[Claire Tran](https://github.gatech.edu/ctran68)  
-[Justin Lee](https://github.gatech.edu/jlee3719)  
-[Liam Das](https://github.gatech.edu/ldas8) 
+[Emily Yang](https://github.com/emjyang)  
+
